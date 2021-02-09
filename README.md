@@ -37,4 +37,4 @@ include flags for antiblackness, white supremacy, ableism, transmisogyny,
 neurotypical supremacy, pedophilia, and just general capitalist bootlicking.
 
 Note that this fork is still a work in progress, and none of these features
-are implemented yet. Please be patient, we don
+are implemented yet. Please be patient, as my system is the only contributor at the moment.
